@@ -1,0 +1,6 @@
+{
+  "name": "AeroVolt-Core REMS & Smart Grid Controller",
+  "description": "Enterprise-grade AI analytics engine and SCADA controller for Renewable Energy Management Systems, real-time yield forecasting, predictive maintenance, and autonomous grid dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
